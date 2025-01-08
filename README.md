@@ -3,8 +3,20 @@
 ## Overview
 The **Business Insights 360 Project** is focused on providing a comprehensive analysis of business performance and identifying key areas for growth. This project uses data-driven techniques to uncover insights across various business metrics, enabling better decision-making for stakeholders.
 
-## Project Description
-This project aims to deliver a 360-degree view of business performance by analyzing key areas such as finance, sales, marketing and supply chain. The goal is to identify trends, uncover hidden opportunities, and suggest actionable recommendations for improving overall business outcomes.
+## Project Highlights
+
+- **🏠𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞:** The central hub is designed for effortless navigation, offering swift entry to crucial information.
+
+- **💰𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰:** Vital financial key performance indicators (KPIs), interactive charts, and adaptable parameters for a comprehensive financial analysis.
+
+- **📈𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰:** Gain insights into sales dynamics through scatter charts, product/customer performance data, and donut charts.
+
+- **📢𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰:** Explore in-depth marketing insights, including segment performance, waterfall charts, and versatile tables.
+
+- **🚚𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰:** Streamline the supply chain by utilizing key metrics, trend charts, and detailed breakdowns.
+
+- **👨🏻‍💼𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰:** An essential section tailored for executives, delivering crucial metrics, revenue contributions, trend charts, and detailed tables.
+
 
 ### Key Objectives:
 - Analyze historical data to track business performance.
@@ -27,7 +39,6 @@ The following steps were followed in this project:
 - ➡️ Excel
 - ➡️ DAX language
 - ➡️ DAX studio (for optimizing the report)
-- ➡️ Project charter file
 
 ## Learned PowerBI Techniques
 
