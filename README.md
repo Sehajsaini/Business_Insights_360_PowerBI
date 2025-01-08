@@ -7,26 +7,22 @@ The **Business Insights 360 Project** is focused on providing a comprehensive an
 ## Dashboard
 - **Power BI Dashboard**: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2RjYjQ1ZmYtN2MxOS00MjkyLWEzNGQtYmZlOTQwMWMwYzQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+
 ## Project Highlights
 
-- **🏠𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞:** The central hub is designed for effortless navigation, offering swift entry to crucial information.
-
-- **💰𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰:** Vital financial key performance indicators (KPIs), interactive charts, and adaptable parameters for a comprehensive financial analysis.
-
-- **📈𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰:** Gain insights into sales dynamics through scatter charts, product/customer performance data, and donut charts.
-
-- **📢𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰:** Explore in-depth marketing insights, including segment performance, waterfall charts, and versatile tables.
-
-- **🚚𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰:** Streamline the supply chain by utilizing key metrics, trend charts, and detailed breakdowns.
-
-- **👨🏻‍💼𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰:** An essential section tailored for executives, delivering crucial metrics, revenue contributions, trend charts, and detailed tables.
-
+- **🏠 Home Page:** Central hub for easy navigation, providing quick access to key information.
+- **💰 Finance View:** Key financial performance indicators (KPIs), interactive charts, and customizable parameters for thorough financial analysis.
+- **📈 Sales View:** Insights into sales trends through scatter charts, product/customer performance data, and donut charts.
+- **📢 Marketing View:** In-depth marketing insights, including segment performance, waterfall charts, and adaptable tables.
+- **🚚 Supply Chain View:** Optimize the supply chain using key metrics, trend charts, and detailed breakdowns.
+- **👨🏻‍💼 Executive View:** A specialized section for executives, presenting crucial metrics, revenue contributions, trend charts, and detailed tables.
 
 ### Key Objectives:
 - Analyze historical data to track business performance.
 - Understand customer behavior and segmentation.
 - Evaluate marketing effectiveness.
 - Provide actionable insights to enhance decision-making.
+
 
 ## Methodology
 The following steps were followed in this project:
@@ -43,6 +39,7 @@ The following steps were followed in this project:
 - ➡️ Excel
 - ➡️ DAX language
 - ➡️ DAX studio (for optimizing the report)
+
 
 ## Learned PowerBI Techniques
 
