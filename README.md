@@ -3,6 +3,9 @@
 ## Overview
 The **Business Insights 360 Project** is focused on providing a comprehensive analysis of business performance and identifying key areas for growth. This project uses data-driven techniques to uncover insights across various business metrics, enabling better decision-making for stakeholders.
 
+## Dashboard
+- **Power BI Dashboard**: [Dashboard]https://app.powerbi.com/view?r=eyJrIjoiN2RjYjQ1ZmYtN2MxOS00MjkyLWEzNGQtYmZlOTQwMWMwYzQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Project Highlights
 
 - **🏠𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞:** The central hub is designed for effortless navigation, offering swift entry to crucial information.
@@ -58,8 +61,6 @@ The following steps were followed in this project:
 - ➡️ Setting up a personal gateway to set up the auto-refresh of data.
 - ➡️ Collaboration, workspace, and access permissions in PowerBi services.
 
-## Files and Resources
-- **Power BI Dashboard**: [Interactive Dashboard]https://app.powerbi.com/view?r=eyJrIjoiN2RjYjQ1ZmYtN2MxOS00MjkyLWEzNGQtYmZlOTQwMWMwYzQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Conclusion
 This project provided a detailed understanding of key business drivers and performance metrics, leading to actionable insights. By leveraging data from different areas, the Business Insights 360 project offers a holistic view, helping businesses make informed strategic decisions and drive growth.
