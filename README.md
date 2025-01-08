@@ -5,7 +5,7 @@ The **Business Insights 360 Project** is focused on providing a comprehensive an
 
 
 ## Dashboard
-- **Power BI Dashboard**: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2RjYjQ1ZmYtN2MxOS00MjkyLWEzNGQtYmZlOTQwMWMwYzQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- **Power BI Dashboard**: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2RjYjQ1ZmYtN2MxOS00MjkyLWEzNGQtYmZlOTQwMWMwYzQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)
 
 
 ## Project Highlights
